@@ -1,0 +1,5 @@
+Date: July 4, 2019
+
+Day 4 of #60daysofudacity:
+1. Completed Lesson 2.5!
+2. Reviewed Week 1 of Andrew Ng's Machine Learning course.
