@@ -1,0 +1,5 @@
+Date: July 9, 2019
+
+Day 9 of #60daysofudacity:
+1. Set up my #60daysofudacity repo on GitHub
+2. Reviewed "Federated Learning - Securing the Data of Users" shared by @souravkumar
