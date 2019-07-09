@@ -1,0 +1,5 @@
+Date: July 5, 2019
+
+Day 5 of #60daysofudacity:
+1. Read through "Machine Learning For Everyone" resource shared by @Sabrina! (See Attachment "MachineLearning_07052019.pdf"
+2. Completed Lesson 2.5
