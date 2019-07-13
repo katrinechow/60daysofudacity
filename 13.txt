@@ -1,0 +1,3 @@
+Date: July 13, 2019
+
+1. Completed GCP's Core Infrastructure course as a part of the Google Cloud Certification challenge
