@@ -1,1 +1,6 @@
 Date: July 12, 2019
+
+Day 12 of #60daysofudacity
+1. Completed 2.8
+2. Read "Generating Pokemon names using RNNs":
+https://towardsdatascience.com/generating-pok%C3%A9mon-names-using-rnns-f41003143333
