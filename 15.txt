@@ -1,0 +1,5 @@
+Date: July 15, 2019
+
+Day 15 of #60daysofudacity:
+Busy with hackathon at work. Trying to keep going with this course by reading Arthur Chan's article "Neural Networks, Deep Learning, and Automatic Speech Recognition: How Speech to Text Works"
+https://www.vocitec.com/insights/neural-networks-deep-learning-and-automatic-speech-recognition-how-speech-to-text-works
